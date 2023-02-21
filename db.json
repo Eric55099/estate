@@ -1,0 +1,63 @@
+{
+    "results": [
+        {
+            "price": 6500000,
+            "location": {
+                "houseNo": 457,
+                "street": "Greenwalk Avenue",
+                "city": "Columbus",
+                "zipcode": "45011",
+                "state": "Ohio",
+                "stateAbb": "OH"
+            },
+            "bedroom": 5,
+            "bathroom": 3,
+            "imgUrl": "https://townsquare.media/site/962/files/2020/09/RS1894_135841146.jpg?w=980&q=75"
+        },
+
+        {
+            "price": 4300500,
+            "location": {
+                "houseNo": 122,
+                "street": "Maryland CornerLake",
+                "city": "Dothan",
+                "zipcode": "34566",
+                "state": "Alamaba",
+                "stateAbb": "AL"
+            },
+            "bedroom": 2,
+            "bathroom": 4,
+            "imgUrl": "https://toptenrealestatedeals.com/wp-content/uploads/2019/06/wk_5817ff2db2705.jpg"
+        },
+
+        {
+            "price": 12430340,
+            "location": {
+                "houseNo": 19,
+                "street": "Linkslide Joyneyard",
+                "city": "Atlanta",
+                "zipcode": "22133",
+                "state": "Georgia",
+                "stateAbb": "GA"
+            },
+            "bedroom": 8,
+            "bathroom": 6,
+            "imgUrl": "https://cdn.luxatic.com/wp-content/uploads/2016/11/Ch%C3%A2teau-Montagel-1.jpg"
+        },
+
+        {
+            "price": 10752125,
+            "location": {
+                "houseNo": 37,
+                "street": "Reachloord Mensyddee",
+                "city": "San Jose",
+                "zipcode": "22133",
+                "state": "California",
+                "stateAbb": "CA"
+            },
+            "bedroom": 10,
+            "bathroom": 5,
+            "imgUrl": "https://cdn.carrot.com/uploads/sites/9397/2019/07/sell-house-now-in-Alabama.jpg"
+        }
+    ]
+}
